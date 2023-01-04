@@ -18,7 +18,7 @@ function MainImage(props) {
             position: "absolute",
             maxWidth: "500px",
             bottom: "2rem",
-            marginLeft: "",
+            marginLeft: "30px",
           }}
         >
           <h2 style={{ color: "white" }}>{props.title}</h2>
